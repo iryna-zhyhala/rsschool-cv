@@ -1,1 +1,1 @@
-https://github.com/iryna-zhyhala/rsschool-cv/blob/gh-pages/cv.md
+https://iryna-zhyhala.github.io/rsschool-cv/cv

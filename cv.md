@@ -1,4 +1,4 @@
-<img scr="images/iryna.jpg" width="250">
+<img scr="/images/iryna.jpg" height="300" width="300">
 
 ## Iryna Zhyhala
 ### Contacts
