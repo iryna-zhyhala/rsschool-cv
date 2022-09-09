@@ -1,14 +1,14 @@
-<img scr="images/1.jpg" width="200">
+<img scr="images/iryna.jpg" width="250">
 
 ## Iryna Zhyhala
 ### Contacts
 * Location: Minsk, Belarus
 * Phone number: +375293783320
-* Email: irinazhigalo93@gmail.com
+* Email: irina.zhyhala@gmail.com
 * Nickname Discord: Iryna Zhyhala
+* Telegram: https://t.me/iryna_zhyhala
 ## About Me
-I very want to learn and develop new skills.
-I want to learn Front-End Development in RSSchool.
+I am motivated person who wants to be front-end developer. I understand that I don't have enough experience but I am ready to work hard (day and night).
 ## Skills
 * HTML
 * CSS
