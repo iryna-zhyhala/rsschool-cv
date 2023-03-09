@@ -1,4 +1,4 @@
-![My photo](/img/My%20photo.jpg)
+![My photo](./img/Photo.jpg)
 # Iryna Zhyhala
 ## Contacts
 * Location: Minsk, Belarus
