@@ -11,6 +11,7 @@
 
 html{
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 *{
@@ -21,7 +22,8 @@ html{
 }
 
 body{
-
+    font-size: 1.3em;
+    line-height: 140%;
 }
 
 li{
@@ -30,21 +32,33 @@ li{
 
 a{
     text-decoration: none;
+    color: black;
+}
+
+h1{
+    font-size: 2.7em;
+    color: rgb(99, 83, 83);
+}
+
+h2{
+    font-size: 2em;
+    color: rgb(97, 132, 120);
+    padding-bottom: 10px;
 }
 
 .wrapper{
     max-width: 1440px;
     width: 100%;
     margin: 0 auto;
-    padding: 0 40px;
+    padding: 20px 60px;
 }
 
 .header{
-    background-color: rgb(63, 153, 123);
+    background-color: rgb(97, 132, 120);
 }
 
 .header__wrapper{
-    padding: 20px 20px;
+    padding: 20px 0;
     display: flex;
     justify-content: end;
 }
@@ -62,14 +76,13 @@ a{
 }
 
 .name{
-    background-color: rgb(228, 227, 209);
-}
-
-.name__wrapper{
+    background-color: rgb(226, 225, 209);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 20px;
+    border: rgb(90, 123, 112) solid;
+    border-top: none;
 }
 
 .name__img{
@@ -77,16 +90,25 @@ a{
     border-radius: 50%;
 }
 
-h1{
-    font-size: 3em;
-    color: rgb(99, 83, 83);
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: rgb(249, 248, 237);
+    border: rgb(90, 123, 112) solid;
+    border-top: none;
 }
 
-h2{
-    font-size: 2em;
-    color: rgb(99, 83, 83);
+.footer{
+    background-color: rgb(97, 132, 120);
 }
 
-.contacts__item{
+.footer__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 90px;
+}
 
+.footer__logo{
+    width: 120px;
 }
