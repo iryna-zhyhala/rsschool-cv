@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url("assets/fonts/RobotoThin.ttf");
+    font-weight: 100;
+  }
+@font-face {
+    font-family: 'Roboto';
+    src: url("assets/fonts/RobotoRegular.ttf");
+    font-weight: 300;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+*{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.wrapper{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 40px;
+}
+
+.header{
+    background-color: rgb(63, 153, 123);
+}
+
+.header__wrapper{
+    padding: 20px 20px;
+    display: flex;
+    justify-content: end;
+}
+
+.header__list{
+    display: flex;
+}
+
+.header__item{
+    padding: 7px;
+}
+
+.header__link{
+    color: rgb(255, 255, 255);
+}
+
+.name{
+    background-color: rgb(228, 227, 209);
+}
+
+.name__wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+.name__img{
+    width: 240px;
+    border-radius: 50%;
+}
+
+h1{
+    font-size: 3em;
+    color: rgb(99, 83, 83);
+}
+
+h2{
+    font-size: 2em;
+    color: rgb(99, 83, 83);
+}
+
+.contacts__item{
+
+}
