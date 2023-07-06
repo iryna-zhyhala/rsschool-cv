@@ -123,6 +123,12 @@ h2{
 .footer__link{
     color: black;
 }
+
+.footer__link:hover, a:focus, a:active{
+    color: rgb(255, 255, 255);
+    transition-duration: .3s;
+}
+
 .footer__logo{
     width: 120px;
 }
